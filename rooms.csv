@@ -1,0 +1,75 @@
+day,room_id,start_time,end_time,type,talk_title,speaker,zoom_url
+1,a,13:45,14:45,session,"Breaking Silos: How TeamDynamix Drives Cross-Departmental Efficiency",,https://zoom.us/j/SALON_A
+1,a,15:00,16:00,sponsor,"ANM - Gold Sponsor",,https://zoom.us/j/SALON_A
+1,a,16:00,16:30,session,"Beyond VMware: Future-Ready Private Cloud Virtualization for AI and Cyber Resilience",,https://zoom.us/j/SALON_A
+1,a,16:30,17:30,sig,"SIG: IT Project Management",,https://zoom.us/j/SALON_A
+1,b,13:45,14:45,session,"Harnessing HPC: Bridging NC State's HPC Cluster and Research Infrastructure",,https://zoom.us/j/SALON_B
+1,b,15:00,16:00,sponsor,"Bravura - Gold Sponsor",,https://zoom.us/j/SALON_B
+1,b,16:00,16:30,session,"Nobody Came Here for Your Department Structure",,https://zoom.us/j/SALON_B
+1,b,16:30,17:30,sig,"SIG: Identity & Access Management",,https://zoom.us/j/SALON_B
+1,c,13:45,14:45,session,"Watching with Purpose: How AI Can Help Assess Student Skill Videos",,https://zoom.us/j/SALON_C
+1,c,15:00,16:00,sponsor,"Cisco - Gold Sponsor - Protect Your Institution from Ghost Student Fraud with Splunk",,https://zoom.us/j/SALON_C
+1,c,16:00,16:30,session,"When No One Owns the Documentation: A Guide to Collaborative IT Document Hygiene",,https://zoom.us/j/SALON_C
+1,c,16:30,17:30,sig,"SIG: Ellucian (formerly Banner)",,https://zoom.us/j/SALON_C
+1,d,13:45,14:45,session,"It's Not on Fire, You're on Fire: Burnout and the IT Manager",,https://zoom.us/j/SALON_D
+1,d,16:00,16:30,session,"Building Secure AI Sandboxes for Higher Education Research",,https://zoom.us/j/SALON_D
+1,d,16:30,17:30,sig,"SIG: Wireless/Eduroam",,https://zoom.us/j/SALON_D
+1,e,13:45,14:45,session,"Cloud Transformation Without the Smoke and Mirrors",,https://zoom.us/j/SALON_E
+1,e,16:00,16:30,session,"The EDUCAUSE Advantage: Why Higher Education Leaders Should Lean In",,https://zoom.us/j/SALON_E
+1,e,16:30,17:30,sig,"SIG: Apple Managers",,https://zoom.us/j/SALON_E
+1,f,13:45,14:45,session,"We Sent the Email, Why Didn't Anyone Change?",,https://zoom.us/j/SALON_F
+1,f,16:30,17:30,sig,"SIG: SCCM",,https://zoom.us/j/SALON_F
+2,a,08:45,09:45,session,"Nobody's in the Office, Everything's on Fire: Leading Hybrid Tech Teams",,https://zoom.us/j/SALON_A
+2,a,09:45,10:45,sponsor,"Dell - Gold Sponsor - Securing the Modern Campus: Dell Managed Detection and Response, Student SOC, and AIOps for Higher Education",,https://zoom.us/j/SALON_A
+2,a,11:00,12:00,session,"Surviving the Computer Supply-Chain Conundrum",,https://zoom.us/j/SALON_A
+2,a,13:30,14:15,sponsor,"Tego - Silver Sponsor - An Outsider's Inside View on AI and How to Integrate it into Your Institution",,https://zoom.us/j/SALON_A
+2,a,14:15,15:15,session,"""Let me get back to you"" - The Contemplative Power Of An Introvert In Leadership",,https://zoom.us/j/SALON_A
+2,a,15:30,16:15,sponsor,"World Wide Technology - Silver Sponsor - An Outsider's Inside View on AI and How to Integrate it into Your Institution",,https://zoom.us/j/SALON_A
+2,a,16:15,17:15,session,"Empowering Student Workers to Become Technology Leaders: Innovation at UNCW",,https://zoom.us/j/SALON_A
+2,b,08:45,09:45,session,"Scalable Workspaces for Hands-On Data Science Education",,https://zoom.us/j/SALON_B
+2,b,09:45,10:45,sponsor,"HPE - Gold Sponsor - The Self-Driving Network: Powering Seamless, Secure Learning for Higher Education",,https://zoom.us/j/SALON_B
+2,b,11:00,12:00,session,"Goodbye Domain Join: Hello Entra — A Windows 11 Migration Story",,https://zoom.us/j/SALON_B
+2,b,13:30,14:15,sponsor,"Softdocs - Silver Sponsor",,https://zoom.us/j/SALON_B
+2,b,14:15,15:15,session,"Using AI to Preserve Institutional Knowledge and Support Succession Planning",,https://zoom.us/j/SALON_B
+2,b,15:30,16:15,sponsor,"Zoom - Silver Sponsor",,https://zoom.us/j/SALON_B
+2,b,16:15,17:15,session,"Streamlining Campus Processes with Cognito Forms Workflows",,https://zoom.us/j/SALON_B
+2,c,08:45,09:45,session,"Five-Year Fire Drill to Continuous Improvement: Rethinking How We Use Assessment Data",,https://zoom.us/j/SALON_C
+2,c,09:45,10:45,sponsor,"Red Hat/Emergent - Gold Sponsor",,https://zoom.us/j/SALON_C
+2,c,11:00,12:00,session,"NC A&T AI Accelerator",,https://zoom.us/j/SALON_C
+2,c,13:30,14:15,sponsor,"BSure - Silver Sponsor",,https://zoom.us/j/SALON_C
+2,c,14:15,15:15,session,"People, Process, Platform: UNC Charlotte's Salesforce Journey",,https://zoom.us/j/SALON_C
+2,c,15:30,16:15,sponsor,"LabStats - Silver Sponsor - From Data to Decisions: How LabStats Consulting Turns Campus Technology Data into Answers for Senior Leadership",,https://zoom.us/j/SALON_C
+2,c,16:15,17:15,session,"Understanding IT Project Capacity & Managing IT Demand",,https://zoom.us/j/SALON_C
+2,d,08:45,09:45,session,"Psychological Safety in IT Teams: What Actually Works",,https://zoom.us/j/SALON_D
+2,d,11:00,12:00,session,"Vision of the Arena: A Look at Preserving Culture Through Immersive Technology",,https://zoom.us/j/SALON_D
+2,d,13:30,14:15,sponsor,"Proofpoint - Silver Sponsor - AI Without Exposure: Securing Generative AI in Higher Education",,https://zoom.us/j/SALON_D
+2,d,14:15,15:15,session,"Migrating from a Legacy Academic IT to a Secure, Sustainable Enterprise Model (OneIT)",,https://zoom.us/j/SALON_D
+2,d,15:30,16:15,sponsor,"Data Network Solutions - Silver Sponsor - Secure More. Spend Less. Extend the Life of Endpoints You Already Own",,https://zoom.us/j/SALON_D
+2,d,16:15,17:15,session,"Chat Asks, Cowork Acts: Knowing When to Delegate to Copilot",,https://zoom.us/j/SALON_D
+2,e,08:45,09:45,session,"From Curiosity to Capability: Scaling Institutional AI Fluency",,https://zoom.us/j/SALON_E
+2,e,11:00,12:00,session,"AI Hygiene: What Bob Ross Never Told You",,https://zoom.us/j/SALON_E
+2,e,13:30,14:15,sponsor,"Sentinel One - Silver Sponsor - Guardrails for Innovation: Making AI Safe for Higher Education Institutions",,https://zoom.us/j/SALON_E
+2,e,14:15,15:15,session,"From Chaos to Coordination: Managing Banner Upgrades and Outages Through SharePoint",,https://zoom.us/j/SALON_E
+2,e,15:30,16:15,sponsor,"Everpure - Silver Sponsor",,https://zoom.us/j/SALON_E
+2,e,16:15,17:15,session,"Case Study: Using Splunk for Forensic Analysis of Unified Communications Logs",,https://zoom.us/j/SALON_E
+2,f,08:45,09:45,session,"Network Access Control in Eduroam w/ Cisco ISE, Jamf, Intune, SCCM: A Multi-MDM Story",,https://zoom.us/j/SALON_F
+2,f,11:00,12:00,session,"Accessible by Design: How UNC Charlotte Approached WCAG 2.1 AA Compliance in Canvas",,https://zoom.us/j/SALON_F
+2,f,13:30,14:15,sponsor,"Arista - Silver Sponsor",,https://zoom.us/j/SALON_F
+2,f,14:15,15:15,session,"To phish or not to phish, that was the question.",,https://zoom.us/j/SALON_F
+2,f,15:30,16:15,sponsor,"Info-Tech - Silver Sponsor",,https://zoom.us/j/SALON_F
+2,f,16:15,17:15,session,"The Structure of Knowledge and Frameworks for Transferring It",,https://zoom.us/j/SALON_F
+3,a,09:00,10:00,session,"No Analyst? No Problem! Small Changes, Big Impact",,https://zoom.us/j/SALON_A
+3,a,10:15,11:15,sig,"SIG: Organization Change Management and Communications (OCMC)",,https://zoom.us/j/SALON_A
+3,b,09:00,10:00,session,"Empowering Growth: Student Employee Performance Management",,https://zoom.us/j/SALON_B
+3,b,10:15,11:15,sig,"SIG: Research Computing",,https://zoom.us/j/SALON_B
+3,b,11:15,12:15,session,"Weird Ideas About AI (That Could Actually Work)",,https://zoom.us/j/SALON_B
+3,c,09:00,10:00,session,"Lessons from a Life in IT: Leadership, Culture, and Lasting Impact",,https://zoom.us/j/SALON_C
+3,c,10:15,11:15,sig,"SIG: Student Workers",,https://zoom.us/j/SALON_C
+3,c,11:15,12:15,session,"Structuring the Knowledge Base for the Agentic Era",,https://zoom.us/j/SALON_C
+3,d,09:00,10:00,session,"Shifting Gears: Leveraging 25Live Pro for Smarter Vehicle Management",,https://zoom.us/j/SALON_D
+3,d,10:15,11:15,sig,"SIG: Women in Technology (WIT+)",,https://zoom.us/j/SALON_D
+3,d,11:15,12:15,session,"Back to the Furture Again: Simplifying macOS Simplified Platform SSO with Entra Id",,https://zoom.us/j/SALON_D
+3,e,09:00,10:00,session,"So About Those Controls: An Audit Story",,https://zoom.us/j/SALON_E
+3,e,10:15,11:15,sig,"SIG: WordPress",,https://zoom.us/j/SALON_E
+3,f,09:00,10:00,session,"Motivating Professionals of Diverse Expertise to Promote Digital Accessibility",,https://zoom.us/j/SALON_F
+3,f,10:15,11:15,sig,"SIG: Network Infrastructure",,https://zoom.us/j/SALON_F
