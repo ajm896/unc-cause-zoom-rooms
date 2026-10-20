@@ -9,6 +9,7 @@ $now_min = to_min($_GET['t'] ?? '') ?? (int)date('G') * 60 + (int)date('i');
 $rooms  = array_fill_keys(range('a', 'f'), []);  // room_id => [sessions]
 $lines  = file($csv_file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $header = str_getcsv(array_shift($lines), escape: '');
+
 foreach ($lines as $line) {
     $s = array_combine($header, str_getcsv($line, escape: ''));
     if ((int)$s['day'] !== $current_day) continue;
@@ -16,11 +17,13 @@ foreach ($lines as $line) {
     $s['end']   = to_min($s['end_time']) ?? $s['start'] + $default_minutes;
     $rooms[$s['room_id']][] = $s;
 }
+
 foreach ($rooms as $id => $sessions) {
     usort($sessions, fn($a, $b) => $a['start'] <=> $b['start']);
     $rooms[$id] = $sessions;
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
