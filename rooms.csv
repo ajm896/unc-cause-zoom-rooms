@@ -1,5 +1,4 @@
 day,room_id,start_time,end_time,type,talk_title,speaker,zoom_url
-1,a,13:45,14:30,session,"We Sent the Email, Why Didn't Anyone Change?",,https://zoom.us/j/SALON_A
 1,a,15:00,15:45,sponsor,"ANM - Gold Sponsor - Move Fast Without Breaking Trust: AI Governance in Practice",,https://zoom.us/j/SALON_A
 1,a,16:00,16:15,session,"Beyond VMware: Future-Ready Private Cloud Virtualization for AI and Cyber Resilience",,https://zoom.us/j/SALON_A
 1,a,16:30,17:15,sig,"SIG: IT Project Management",,https://zoom.us/j/SALON_A
@@ -24,7 +23,7 @@ day,room_id,start_time,end_time,type,talk_title,speaker,zoom_url
 2,a,11:00,11:45,session,"Accessible by Design: How UNC Charlotte Approached WCAG 2.1 AA Compliance in Canvas",,https://zoom.us/j/SALON_A
 2,a,13:30,14:00,sponsor,"Tego - Silver Sponsor - An Outsider's Inside View on AI and How to Integrate it into Your Institution",,https://zoom.us/j/SALON_A
 2,a,14:15,15:00,session,"""Let me get back to you"" - The Contemplative Power Of An Introvert In Leadership",,https://zoom.us/j/SALON_A
-2,a,15:30,16:00,sponsor,"World Wide Technology - Silver Sponsor - An Outsider's Inside View on AI and How to Integrate it into Your Institution",,https://zoom.us/j/SALON_A
+2,a,15:30,16:00,sponsor,"World Wide Technology - Silver Sponsor - AI on Both Sides of the Wall: Defending Your Campus from AI Attackers While Securing Your Own AI",,https://zoom.us/j/SALON_A
 2,a,16:15,17:00,session,"The Structure of Knowledge and Frameworks for Transferring It",,https://zoom.us/j/SALON_A
 2,b,08:45,09:30,session,"Scalable Workspaces for Hands-On Data Science Education",,https://zoom.us/j/SALON_B
 2,b,09:45,10:30,sponsor,"HPE - Gold Sponsor - The Self-Driving Network: Powering Seamless, Secure Learning for Higher Education",,https://zoom.us/j/SALON_B
@@ -34,7 +33,7 @@ day,room_id,start_time,end_time,type,talk_title,speaker,zoom_url
 2,b,15:30,16:00,sponsor,"Zoom - Silver Sponsor - Zoom Innovations in UC",,https://zoom.us/j/SALON_B
 2,b,16:15,17:00,session,"Streamlining Campus Processes with Cognito Forms Workflows",,https://zoom.us/j/SALON_B
 2,c,08:45,09:30,session,"Network Access Control in Eduroam w/ Cisco ISE, Jamf, Intune, SCCM: A Multi-MDM Story",,https://zoom.us/j/SALON_C
-2,c,09:45,10:30,sponsor,"Red Hat/Emergent - Gold Sponsor",,https://zoom.us/j/SALON_C
+2,c,09:45,10:30,sponsor,"Red Hat/Emergent - Gold Sponsor - Unlocking Operational Agility: Maximizing the NC System Managed Ansible Automation Platform",,https://zoom.us/j/SALON_C
 2,c,11:00,11:45,session,"More Than an Accelerator: Creating a Culture of AI Innovation",,https://zoom.us/j/SALON_C
 2,c,13:30,14:00,sponsor,"BSure - Silver Sponsor - The Good, the Bad and the Orphaned Identities in Your Campus Microsoft 365 Tenant",,https://zoom.us/j/SALON_C
 2,c,14:15,15:00,session,"From Chaos to Coordination: Managing Banner Upgrades and Outages Through SharePoint",,https://zoom.us/j/SALON_C
@@ -45,16 +44,14 @@ day,room_id,start_time,end_time,type,talk_title,speaker,zoom_url
 2,d,13:30,14:00,sponsor,"Proofpoint - Silver Sponsor - AI Without Exposure: Securing Generative AI in Higher Education",,https://zoom.us/j/SALON_D
 2,d,14:15,15:00,session,"To phish or not to phish, that was the question.",,https://zoom.us/j/SALON_D
 2,d,15:30,16:00,sponsor,"Data Network Solutions - Silver Sponsor - Secure More. Spend Less. Extend the Life of Endpoints You Already Own",,https://zoom.us/j/SALON_D
-2,d,16:15,17:00,session,"Chat Asks, Cowork Acts: Knowing When to Delegate to Copilot",,https://zoom.us/j/SALON_D
 2,e,08:45,09:30,session,"Nobody's in the Office, Everything's on Fire: Leading Hybrid Tech Teams",,https://zoom.us/j/SALON_E
 2,e,11:00,11:45,session,"Surviving the Computer Supply-Chain Conundrum",,https://zoom.us/j/SALON_E
 2,e,13:30,14:00,sponsor,"Sentinel One - Silver Sponsor - Guardrails for Innovation: Making AI Safe for Higher Education Institutions",,https://zoom.us/j/SALON_E
-2,e,14:15,15:00,session,"People, Process, Platform: UNC Charlotte's Salesforce Journey",,https://zoom.us/j/SALON_E
-2,e,15:30,16:00,sponsor,"Everpure - Silver Sponsor",,https://zoom.us/j/SALON_E
+2,e,15:30,16:00,sponsor,"Everpure, Inc. - Silver Sponsor - Modern Virtualization with Everpure: Choosing Your Next Platform Without Losing Your Storage",,https://zoom.us/j/SALON_E
 2,e,16:15,17:00,session,"Understanding IT Project Capacity & Managing IT Demand",,https://zoom.us/j/SALON_E
 2,f,08:45,09:30,session,"Five-Year Fire Drill to Continuous Improvement: Rethinking How We Use Assessment Data",,https://zoom.us/j/SALON_F
 2,f,11:00,11:45,session,"AI Hygiene: What Bob Ross Never Told You",,https://zoom.us/j/SALON_F
-2,f,13:30,14:00,sponsor,"Arista - Silver Sponsor - Securing the AI Era: Patching, Protection, and Automation for the Modern Network",,https://zoom.us/j/SALON_F
+2,f,13:30,14:00,sponsor,"Arista - Silver Sponsor - Stemming the Tide of Coming AI Threats",,https://zoom.us/j/SALON_F
 2,f,14:15,15:00,session,"Migrating from a Legacy Academic IT to a Secure, Sustainable Enterprise Model (OneIT)",,https://zoom.us/j/SALON_F
 2,f,15:30,16:00,sponsor,"Info-Tech - Silver Sponsor - Global Perspective on Exponential Change in Higher Education",,https://zoom.us/j/SALON_F
 2,f,16:15,17:00,session,"Empowering Student Workers to Become Technology Leaders: Innovation at UNCW",,https://zoom.us/j/SALON_F
