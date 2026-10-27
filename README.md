@@ -1,0 +1,1 @@
+PHP app to serve schedule and "way finding" to Closed Captioning services. App is exposed internally on port 8080 and schedule is built into the image. Just point expose the container and point a reverse proxy of choice at the app.
